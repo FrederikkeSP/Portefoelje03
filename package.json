@@ -1,8 +1,8 @@
 {
-  "name": "Portefoelje 3",
+  "name": "Portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "number_script.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
